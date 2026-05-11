@@ -1,0 +1,2 @@
+1|admin|admin123|System Administrator|admin@radiowave.com|ADMIN|true
+2|staff|staff123|Staff Member|staff@radiowave.com|STAFF|true
