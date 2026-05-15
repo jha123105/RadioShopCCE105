@@ -1,0 +1,5 @@
+1|PR-100|Sony|PORTABLE|49.99|9|FM/AM|5|Compact portable radio
+2|BR-2000|Kenwood|BASE|299.99|5|HF/VHF/UHF|100|Professional base station
+3|PR-200|Panasonic|PORTABLE|79.99|15|FM/AM/SW|7|Multi-band portable radio
+4|BR-3000|Yaesu|BASE|499.99|3|HF/50MHz|200|Amateur radio base station
+5|PR-300|Motorola|PORTABLE|129.99|8|UHF|4|Two-way portable radio
